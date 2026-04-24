@@ -1,3 +1,3 @@
-# hello-world
+# ObjectDetection
 Just another repository
 I am ready!
