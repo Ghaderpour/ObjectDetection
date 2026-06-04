@@ -1,0 +1,4 @@
+train: D:\CHAD\GoogleSatClipped\YoloTrainSet\images/train
+val: D:\CHAD\GoogleSatClipped\YoloTrainSet\images/val
+nc: 1
+names: ['grave']
