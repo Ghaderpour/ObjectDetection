@@ -1,3 +1,13 @@
+This repository contains the code, datasets, trained models, and evaluation results associated with the paper:
+
+**Ghaderpour, E., et al. (2026).** *A YOLO-Based Workflow for Detecting and Mapping Archaeological Stone Cairns in Satellite Imagery: A Case Study from Western Ennedi, Chad*. **Heritage (MDPI)**.
+
+The repository provides all data and Python scripts required to reproduce the workflow presented in the paper, including Google Satellite imagery preprocessing, YOLOv8 model training and inference, post-processing of detections using DBSCAN clustering, and accuracy assessment of the resulting stone-cairn maps.
+
+### Citation and Usage
+
+The code and data provided in this repository are freely available for research and educational purposes. If you use any part of this repository in your research, publications, software, or derived works, please acknowledge the authors by citing the above paper.
+
 ## Repository Contents
 
 ### Border.zip
